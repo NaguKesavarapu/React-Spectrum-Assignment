@@ -1,0 +1,27 @@
+.app-container{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+.app-heading {
+  text-align: center;
+  color: #333;
+}
+
+.input-field {
+  width: 100%;
+}
+
+.add-button {
+  align-self: center;
+}
+
+.list-view {
+  margin-top: 20px;
+}
+
+.delete-button {
+  color: red;
+}
